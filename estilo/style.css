@@ -72,7 +72,7 @@ nav>a:hover{
 }
 main{
     background-color: white;
-    min-width: 200px;
+    min-width: 300px;
     max-width: 1000px;
     padding: 20px;
     margin: auto;
@@ -118,6 +118,7 @@ main p{
 }
 main img{
     width: 100%;
+
 }
 main img.pequena{
     width: 50%;
@@ -155,4 +156,12 @@ footer a{
     color: white;
     font-weight: bolder;
     text-decoration: none;
+}
+div.viedeo{
+    background-color: var(--cor5);
+    padding: 20px;
+    margin: 0px -20px 30px -20px;
+    padding-bottom: 59%;
+    position: relative;
+
 }
