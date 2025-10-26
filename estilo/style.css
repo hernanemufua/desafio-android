@@ -41,7 +41,7 @@ header>p{
     font-size: 1.2em;
     max-width: 600px;
     margin: auto;
-    padding: 0px 10px 0px 10px;
+    padding-bottom: 30px;
     text-shadow: 1px 3px 0px rgba(0, 0, 0, 0.466);
     text-align: center;
 }
